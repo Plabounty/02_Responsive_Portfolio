@@ -1,0 +1,28 @@
+hr.one {
+    border: none;
+    Height: 2px;
+    background-color: white;
+  }
+
+  .img {
+    float: left;
+    margin-right: 10px;
+    Margin-bottom: 5px;
+    border: black 1px;
+    padding: 2px;
+  }
+
+  .main{
+  height: 100vh;
+}
+
+.card-main{
+  position: absolute;
+  top: 20%;
+  left: 5%;
+  width: 50%;
+}
+
+.card-body{
+  max-height: 100vh;
+}
